@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js14-udemy",
+      "title": "Next.js14をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.js14を学んでいます。",
+      "createdAt": "2024/02/11"
+    },
+    {
+      "id": "json-server",
+      "title": "JSONサーバ",
+      "content": "コーディングなしで完全な偽の REST API を 30 秒以内に取得します (真剣に)",
+      "createdAt": "2024/02/11"
+    },
+    {
+      "id": "revalidate-nextjs14",
+      "title": "データのフェッチ、キャッシュ、および再検証",
+      "content": "一定の間隔でデータを再検証するには、 のnext.revalidateオプションを使用してfetch、リソースのキャッシュ存続期間 (秒単位) を設定できます。",
+      "createdAt": "2024/02/11"
+    },
+    {
+      "id": "test URL",
+      "title": "test タイトル",
+      "content": "test 本文",
+      "createdAt": "2024-02-11T10:33:38.624Z"
+    }
+  ]
+}
